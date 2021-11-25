@@ -3,6 +3,24 @@
 
 [![emanfolo/acebook-Jeamm-Team](https://github.com/emanfolo/acebook-Jeamm-Team)]
 
+## Team
+
+
+> Arthur &nbsp;&middot;&nbsp;
+> GitHub [@arthurfincham](https://github.com/arthurfincham) &nbsp;&middot;&nbsp;
+
+> Emmanuel &nbsp;&middot;&nbsp;
+> GitHub [@emanfolo](https://github.com/emanfolo) &nbsp;&middot;&nbsp;
+
+> Jacob &nbsp;&middot;&nbsp;
+> GitHub [@jtc27](https://github.com/jtc27) &nbsp;&middot;&nbsp;
+
+> Marianne &nbsp;&middot;&nbsp;
+> GitHub [@marazzo](https://github.com/marazzo) &nbsp;&middot;&nbsp;
+
+> Max &nbsp;&middot;&nbsp;
+> GitHub [@maxcfry](https://github.com/maxcfry) &nbsp;&middot;&nbsp;
+
 
 
 <div align="center">
