@@ -1,10 +1,10 @@
 # acebook-Jeamm-Team
-⚡ Facebook Rails Clone made with Makers Team.  This has been cloned from the original repo found at: [![emanfolo/acebook-Jeamm-Team](https://github.com/emanfolo/acebook-Jeamm-Team)]
+⚡ Facebook Rails Clone made with Makers Team.  Original repo found at: [![emanfolo/acebook-Jeamm-Team](https://github.com/emanfolo/acebook-Jeamm-Team)]
 
 Heroku link: 
 [https://hidden-everglades-40298.herokuapp.com/](https://hidden-everglades-40298.herokuapp.com/)
 
-## My Contribution
+## My Contributions to the project
 ✳️ I worked mainly on the visuals, using HTML and CSS.  I am quite pleased with the look of the site, especially the front page.  I may revisit this project and work on it some more.
 
 ☎️ I was intentional in leaving comments to explain my code, for example: 
