@@ -4,6 +4,8 @@
 Heroku link: 
 [https://hidden-everglades-40298.herokuapp.com/](https://hidden-everglades-40298.herokuapp.com/)
 
+# My Contribution
+:mountain_railway: Facebook Rails Clone made with Makers Team.  This has been cloned from the original repo found at:  
 
 ## Makers Team
 
