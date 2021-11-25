@@ -1,5 +1,5 @@
 # acebook-Jeamm-Team
-⚡ Facebook Clone made with Makers Team.  This has been cloned from the original repo found at: [![emanfolo/acebook-Jeamm-Team](https://github.com/emanfolo/acebook-Jeamm-Team)]
+⚡ Facebook Rails Clone made with Makers Team.  This has been cloned from the original repo found at: [![emanfolo/acebook-Jeamm-Team](https://github.com/emanfolo/acebook-Jeamm-Team)]
 
 ## Makers Team
 
@@ -65,7 +65,7 @@
 ## Install
 Clone the repository
 ``` bash
-% git clone https://github.com/emanfolo/acebook-Jeamm-Team
+% git clone https://github.com/jtc27/acebook-Jeamm-Team 
 ```
 Go to the project directory and install dependencies:
 ```bash
