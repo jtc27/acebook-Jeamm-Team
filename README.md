@@ -4,8 +4,20 @@
 Heroku link: 
 [https://hidden-everglades-40298.herokuapp.com/](https://hidden-everglades-40298.herokuapp.com/)
 
-# My Contribution
-:mountain_railway: Facebook Rails Clone made with Makers Team.  This has been cloned from the original repo found at:  
+## My Contribution
+✳️ I worked mainly on the visuals, using HTML and CSS.  I am quite pleased with the look of the site, especially the front page.  I may revisit this project and work on it some more.
+
+☎️ I was intentional in leaving comments to explain my code, for example: 
+
+[home page](https://github.com/jtc27/acebook-Jeamm-Team/blob/main/app/views/welcome/index.html.erb)
+[friend suggestions](https://github.com/jtc27/acebook-Jeamm-Team/blob/main/app/views/users/everyone.html.erb)
+[posts](https://github.com/jtc27/acebook-Jeamm-Team/blob/main/app/views/shared/_posts.html.erb)
+
+👪 I left these comments to help my team understand the code (since Rails was new to us).  When I had downtime, I would try to work on other features that would not overlap with my teammates' work.
+
+🎩 I may revisit this project and work on it some more.  I could add friend requests, and also nested comments.
+
+
 
 ## Makers Team
 
