@@ -17,7 +17,7 @@ Heroku link:
 
 👪 I left these comments to help my team understand the code (since Rails was new to us).  When I had downtime, I would try to work on other features that would not overlap with my teammates' work.
 
-🎩 I may revisit this project and work on it some more.  I could add friend requests, and also nested comments.
+🎩 I may revisit this project and work on it some more.  I could add friend requests and also nested comments.
 
 
 
