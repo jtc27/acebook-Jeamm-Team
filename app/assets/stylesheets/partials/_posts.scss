@@ -1,0 +1,127 @@
+.post-card-muted {
+  font-size: 12px;
+}
+
+.post-card-container {
+  max-height: 30vh !important;
+}
+
+#entire_card{
+  border: 2px solid #F0F0F0 !important;
+}
+
+#post-text-area{
+  min-height: 10vh;
+}
+
+#header1{
+  background-color: #F0F0F0 !important;
+}
+
+#comment_form{
+  background-color: #F0F0F0 !important;
+}
+
+#response_buttons{
+  content: ""; /* This is necessary for the pseudo element to work. */ 
+  margin: 0 auto; /* This will center the border. */
+  width: 90%; /* Change this to whatever width you want. */
+  padding-top: 0px; /* This creates some space between the element and the border. */
+  border-top: 1px solid #F0F0F0 ; /* This creates the border. Replace black with whatever color you want. */
+  border-bottom: 1px solid #F0F0F0;
+  text-align: left;
+}
+
+hr{
+  border-top: 1px solid white;
+}
+
+.post-comment-display{
+  background-color: #F0F0F0 !important;
+}
+
+.card-body{
+  background-color: white;
+}
+
+.card-text{
+  font-size: 0.8em;
+}
+
+.post-buttons{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  font-size: 1.5em;
+}
+
+.post-action-buttons{
+  border: none;
+  background: none;
+  color: #335FFF;
+}
+
+.post-action-buttons-liked{
+  border: none;
+  background: none;
+  color: #020342;
+}
+
+.post-action-buttons:hover{
+  color: white;
+background-color: #335FFF;
+border-radius: 50%;
+}
+
+.post-action-buttons-liked:hover{
+  color: white;
+background-color: #020342;
+border-radius: 50%;
+}
+
+.rounded-circle{
+  box-shadow: none !important;
+}
+
+input[type="string"]:focus{
+  outline: none;
+  border: none;
+  box-shadow: none;
+  background-color: #f0f0f0;
+}
+
+input[type="string"]{
+  outline: none;
+  border: none;
+  box-shadow: none;
+  background-color: #f0f0f0;
+}
+
+.post-comment-display{
+   background-color: #f0f0f0;
+   border-radius: 10px;
+  display: inline-block;
+  flex-direction: column;
+  margin-bottom: 0;
+}
+
+.comment-content, .comment-title{
+  display: block !important;
+}
+
+.all-comments-toggle{
+  background-color: #f0f0f0;
+  border: none;
+  font-size: 0.6em;
+}
+
+.all-comments-toggle:hover{
+  text-decoration: underline;
+}
+
+.bi-chat-fill{
+  border: none;
+  background: none;
+  color: #335FFF;
+}

@@ -1,0 +1,15 @@
+<div class="d-flex w-100 justify-content-center">  
+<div class="d-flex flex-column w-50 my-3">
+
+
+<%= form_for @post do |f| %>
+  <%= f.label :message %>
+  <%= f.text_field :message %>
+
+  <%= f.file_field :photo , :class => 'form-control', :type => 'file' %>
+
+  <%= f.submit "Submit" %>
+<% end %>
+
+</div>
+</div>
