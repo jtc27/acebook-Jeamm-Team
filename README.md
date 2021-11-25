@@ -27,8 +27,8 @@ Heroku link:
 > Emmanuel &nbsp;&middot;&nbsp;
 > GitHub [@emanfolo](https://github.com/emanfolo) &nbsp;&middot;&nbsp;
 
->> Jacob Cho &nbsp;&middot;&nbsp;
-> GitHub [@jtc27](https://github.com/jtc27) &nbsp;&middot;&nbsp;
+>** Jacob Cho &nbsp;&middot;&nbsp;
+> GitHub [@jtc27](https://github.com/jtc27) &nbsp;&middot;&nbsp;**
 
 > Marianne &nbsp;&middot;&nbsp;
 > GitHub [@marazzo](https://github.com/marazzo) &nbsp;&middot;&nbsp;
