@@ -1,5 +1,5 @@
-## This is a Rails Facebook Clone
-⚡ Facebook Rails Clone made with Makers Team.  Original repo found at: [![emanfolo/acebook-Jeamm-Team](https://github.com/emanfolo/acebook-Jeamm-Team)]
+## Rails Facebook Clone
+⚡ Rails Facebook Clone made with Makers Team.  Original repo found at: [![emanfolo/acebook-Jeamm-Team](https://github.com/emanfolo/acebook-Jeamm-Team)]
 
 Heroku link: 
 [https://hidden-everglades-40298.herokuapp.com/](https://hidden-everglades-40298.herokuapp.com/)
